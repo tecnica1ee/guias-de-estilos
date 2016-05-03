@@ -23,3 +23,19 @@
 - Evitar usar CSS hacks o detección de agentes-navegadores.
 - Usar encomillado doble para los atributos de los selectores y los valores de sus propiedades.
 - Identificar grupos de reglas de estilo creando secciones a través de comentarios.
+
+
+#Guía de Estilo de Código HTML
+
+###Reglas uso obligatorio
+- Usar minúsculas para los nombres de los atributos.
+- Usar HTML5.
+- Usar UTF-8 cómo encoding para los caracteres.
+- Ubicar a las listas, bloques, o los elementos de una tabla en líneas separadas e indentando todos sus childs.
+- Use tags semánticas.
+- Escriba siempre contenido alternativo.
+- Remover el espacio en blanco al finalizar líneas de código ya que es innecesario.
+- Usar indentación consistente (tabulados o espacios)
+- Identificar secciones de la estructura de la página a través de comentarios.
+- Usar comentarios para explicar el código.
+- Marcar los lugares dónde debe hacer algo con: TODO.
